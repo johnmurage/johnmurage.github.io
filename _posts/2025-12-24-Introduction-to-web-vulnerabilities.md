@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Web Vulnerabilites:
+title: "Introduction to Web Vulnerabilites"
 date: 2025-12-24 23:10:05 +0300
 categories: [Cybersecurity, web]
 tags: [xss, sqsl injection, csrf]
