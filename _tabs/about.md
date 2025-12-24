@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
+title : About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm **John Murage**, an IT strategistic with focus on Data and an AI Enthusiast.
+-Skilled in Data Analysis and Visualizations.
+-Passianate of data Story Telling.
+-Exploring Artificial Intelligence, Machine Learning and Deep Learning.
