@@ -23,6 +23,6 @@ In todays nwe world every step we perform is an intended or uknown data entry:
 
 ## AI
 As AI is major a mimic of human thought process it tries to learn correct, predict. When one searches online the defination we get "a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that used to require human intelligence".
-![Ai Intergrated](/assets/ai.jpg0{: width="600"}
+![Ai Intergrated](/assets/ai.jpg){: width="600"}
 
 ##Data and AI
