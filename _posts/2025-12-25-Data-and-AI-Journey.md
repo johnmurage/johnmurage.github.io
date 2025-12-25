@@ -14,7 +14,7 @@ Web Vulnerbilities are common entry points for attackers. In this post we will e
 ## Data
 This occurs when Unsainitized input is used in database Queries
 ![Data the New Oil](/assets/datanewoil.jpg){: width="600"}
-!(/assets/datanewoilcomp.png){: width="600"}
+(/assets/datanewoilcomp.png){: width="600"}
 
 ## AI
 Cross-Site Scripting allows attackers to inject scripts into web pages viewed by others.
