@@ -19,10 +19,15 @@ In todays nwe world every step we perform is an intended or uknown data entry:
 - Our workplaces have our personal data, time worked, how many years, dependant, marital status.
 - Thats just  a few to consider. 
 ![Data the New Oil](/assets/datanewoil.jpg){: width="600"}
-(/assets/datanewoilcomp.png){: width="600"}
+![Data](/assets/datanewoilcomp.png){: width="600"}
 
 ## AI
 As AI is major a mimic of human thought process it tries to learn correct, predict. When one searches online the defination we get "a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that used to require human intelligence".
 ![Ai Intergrated](/assets/ai.jpg){: width="600"}
 
 ##Data and AI
+For now as we best utilize having AI as a helper to best get insights, prediction in the data in house.
+![Data and Ai Intergrated](/assets/dataandai.jpg){: width="600"}
+
+##Next Phase
+Kindly join me for my 12 Week Journey to learn and implement Data and AI.
