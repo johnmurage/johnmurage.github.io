@@ -1,7 +1,7 @@
 ---
 title: "Data and AI Journey"
 date: 2025-10-15 18:10:05 +0300
-categories: [Data Anlaysis,AI]
+categories: [Data Analysis,AI]
 tags: [Data, AI]
 image:
 Path: /assets/dataandai.jpg
