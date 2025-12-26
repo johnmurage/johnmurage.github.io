@@ -93,6 +93,78 @@ Examples
 - Customer behavior analysis
 
 ## Explore different jobs related to Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+
+Data Analyst → Data Scientist → ML Engineer → AI Engineer → Deep Learning Specialist
+
+1. Data Science–Related Jobs
+- Data Scientist
+Analyzes large datasets to extract insights
+Builds statistical and ML models
+Communicates results using visualizations and reports
+Skills -  Python/R, SQL, statistics, ML, visualization
+- Data Analyst
+Interprets data to support business decisions
+Creates dashboards and reports
+Skills - Excel, SQL, Power BI/Tableau
+- Business Intelligence (BI) Analyst
+Focuses on historical data trends
+Builds KPIs and dashboards
+Skills - SQL, Power BI, Tableau
+- Data Engineer
+Designs and maintains data pipelines
+Ensures data quality and availability
+Skills- SQL, Spark, Hadoop, cloud platforms
+- Data Architect
+Designs data infrastructure and storage solutions
+2. Machine Learning–Related Jobs
+- Machine Learning Engineer
+Builds, trains, and deploys ML models
+Optimizes model performance
+Skills - Python, scikit-learn, TensorFlow, deployment tools
+- Applied Machine Learning Scientist
+Develops ML solutions for real-world problems
+Experiments with algorithms
+Skills -  ML algorithms, experimentation, statistics
+- MLOps Engineer
+Automates ML model deployment and monitoring
+Manages CI/CD for ML systems
+Skills -  Docker, Kubernetes, MLflow, cloud services
+3. Deep Learning–Related Jobs
+- Deep Learning Engineer
+Designs neural networks for complex tasks
+Works with image, audio, and text data
+Skills - TensorFlow, PyTorch, CNNs, RNNs, Transformers
+- Computer Vision Engineer
+Builds image and video analysis systems
+Applications: Face recognition, medical imaging
+Skills -  OpenCV, CNNs, deep learning
+- NLP Engineer
+Develops systems that understand human language
+Applications: Chatbots, translation, sentiment analysis
+Skills - Transformers, BERT, GPT, NLP libraries
+
+4. Artificial Intelligence–Related Jobs
+- AI Engineer
+Develops intelligent systems using ML and DL
+Integrates AI into applications
+Skills - Python, ML/DL frameworks, system design
+- AI Research Scientist
+Conducts advanced research in AI
+Publishes papers and develops new algorithms
+Skills -  Mathematics, deep learning, research methods
+- Robotics Engineer
+Builds intelligent robots using AI
+Integrates perception, planning, and control
+Skills - AI, control systems, embedded systems
+- AI Product Manager
+Defines AI product strategy
+Bridges technical teams and business needs
+Skills -  AI understanding, business strategy
+- AI Ethics Specialist
+Ensures fairness, transparency, and responsible AI
+- Research Engineer
+Translates research into production systems
+
 ## Outline the Data Science Methodology in line with best practice standards e.g. CRISP-DM
 ## Identify real-world applications and case studies of each
 ## Working on the first first Data Project on Web Data Scraping
