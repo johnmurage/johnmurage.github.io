@@ -30,4 +30,4 @@ For now as we best utilize having AI as a helper to best get insights, predictio
 ![Data and Ai Intergrated](/assets/dataandai.jpg){: width="600"}
 
 ## Next Phase
-Kindly join me for my 12 Week Journey to learn and implement Data and AI.
+Kindly join me Every Tuesday for my 12 Week Journey on learning and implementing Data and AI.
