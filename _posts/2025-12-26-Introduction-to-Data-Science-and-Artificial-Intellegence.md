@@ -17,4 +17,12 @@ For a successfull session we start with the Week's agenda:
 - Explore different jobs related to Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
 - Outline the Data Science Methodology in line with best practice standards e.g. CRISP-DM
 - Identify real-world applications and case studies of each
-- Work on your first Data Project on Web Data Scraping
+- Working on the first Data Project on Web Data Scraping
+
+Let dive into making the each point.
+
+## Define and distinguish between Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+## Explore different jobs related to Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+## Outline the Data Science Methodology in line with best practice standards e.g. CRISP-DM
+## Identify real-world applications and case studies of each
+## Working on the first first Data Project on Web Data Scraping
