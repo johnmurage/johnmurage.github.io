@@ -94,6 +94,11 @@ Examples
 
 ## Explore different jobs related to Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
 
+Data Science jobs focus on insights and analysis
+ML jobs focus on model building and deployment
+DL jobs focus on neural networks and complex data
+AI jobs focus on intelligent systems and automation
+
 Data Analyst → Data Scientist → ML Engineer → AI Engineer → Deep Learning Specialist
 
 1. Data Science–Related Jobs
@@ -166,5 +171,20 @@ Ensures fairness, transparency, and responsible AI
 Translates research into production systems
 
 ## Outline the Data Science Methodology in line with best practice standards e.g. CRISP-DM
+CRISP-DM stands for Cross-Industry Standard Process for Data Mining.
+CRISP-DM is a process model that describes the standard phases of a data science project, from understanding the business problem to deploying a solution.
+
+Business Understanding
+        ↓
+Data Understanding
+        ↓
+Data Preparation
+        ↓
+Modeling
+        ↓
+Evaluation
+        ↓
+Deployment
+
 ## Identify real-world applications and case studies of each
 ## Working on the first first Data Project on Web Data Scraping
