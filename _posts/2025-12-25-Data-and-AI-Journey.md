@@ -9,7 +9,6 @@ width: 1200
 height: 630
 alt: "Data the New Oil"
 ---
-Web Vulnerbilities are common entry points for attackers. In this post we will explore **Sql Injections** and **XSS** -- two of the OWASP top 10.
 
 ## Data
 In todays nwe world every step we perform is an intended or uknown data entry:
