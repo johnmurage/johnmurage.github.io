@@ -186,5 +186,109 @@ Evaluation
         ↓
 Deployment
 
+1. Business Understanding
+Clearly define the problem and success criteria.
+Key Activities
+- Identify business objectives
+- Translate business goals into data science problems
+- Define KPIs and constraints (cost, time, resources)
+- Assess risks and assumptions
+
+Deliverables
+- Problem statement
+- Success metrics
+- Project plan
+
+Example
+“Predict customer churn with at least 85% accuracy to reduce churn by 10%.”
+
+2. Data Understanding
+Understand the available data and assess its quality.
+
+Key Activities
+- Collect initial datasets
+- Explore data (EDA)
+- Identify data types, distributions, and relationships
+- Detect missing values, outliers, and inconsistencies
+
+Deliverables
+- Data description report
+- Initial insights and data quality issues
+
+Techniques
+- Summary statistics
+- Visualizations (histograms, box plots, correlations)
+
+3. Data Preparation
+Prepare clean, structured data for modeling.
+
+Key Activities
+- Data cleaning (handle missing values, outliers)
+- Feature engineering
+- Feature selection
+- Data transformation and encoding
+- Train-test split
+
+Deliverables
+- Final modeling dataset
+- Data preprocessing pipeline
+
+Example Tasks
+- Normalize numerical features
+- Encode categorical variables
+- Remove duplicates
+
+4. Modeling
+Build predictive or descriptive models.
+
+Key Activities
+- Select appropriate algorithms
+- Train models
+- Tune hyperparameters
+- Validate models using cross-validation
+
+Deliverables
+- Trained models
+- Model performance metrics
+
+Examples
+- Regression classification, clustering
+- Decision Trees, Random Forest, Neural Networks
+
+5. Evaluation
+Assess whether the model meets business objectives.
+
+Key Activities
+- Evaluate model using appropriate metrics
+- Compare multiple models
+- Check for bias, overfitting, and robustness
+- Validate results with stakeholders
+
+Deliverables
+- Evaluation report
+- Go / No-Go decision
+
+Metrics Examples
+- Accuracy, Precision, Recall, F1-score
+- RMSE, MAE, ROC-AUC
+
+6. Deployment
+Put the model into real-world use.
+
+Key Activities
+- Integrate model into applications or systems
+- Create APIs or dashboards
+- Monitor model performance
+- Schedule retraining and updates
+
+Deliverables
+- Deployed model
+- Monitoring and maintenance plan
+
+Examples:
+- Web application
+- Automated decision system
+- Business dashboard
+
 ## Identify real-world applications and case studies of each
 ## Working on the first first Data Project on Web Data Scraping
