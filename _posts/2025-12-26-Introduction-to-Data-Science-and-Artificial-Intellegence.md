@@ -21,6 +21,12 @@ For a successfull session we start with the Week's agenda:
 Let dive into the making of each point.
 
 ## Define and distinguish between Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+
+Artificial Intelligence is making machines intelligent by mimicing human intelligence
+Machines learning is machine learnin from data
+Deep Learning is using deep neural networks
+Data Science is Extracting insights from data
+
 1. Artificial Intelligence (AI)
 Definition
 Artificial Intelligence is the broad field focused on creating systems that can perform tasks that normally require human intelligence.
