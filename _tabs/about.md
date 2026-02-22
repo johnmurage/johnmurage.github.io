@@ -29,25 +29,7 @@ linkedin.com/in/johnnmurage
 ## johnmurage.github.io
 
 ```
-```
-Education
-```
-```
-Jan 2020 – Nov 2020
-Diploma in Information Security
-and Ethical Hacking
-Institute of Software
-Technology
-Nairobi, Kenya
-```
-```
-May 2013 – April 2021
-Bachelors of Science in Information
-Technology
-Jomo Kenyatta University of
-Agriculture and Technology
-Nairo bi, Kenya
-```
+
 ```
 K e y S k i l l s
 ```
@@ -89,8 +71,7 @@ Country Business Analyst - Kenya
 
 PZ Cussons EA ltd – Nairobi, Kenya
 
-September 2024 –
-Present
+September 2024 – Present
 ```
 ```
 ▪ Acted as a strategic business partner, collaborating cross-functionally to drive
@@ -115,7 +96,6 @@ controls, policies, SOP documentation, and access management governance.
 ```
 IT support and Data analyst at PZ Cussons
 PZ Cussons EA ltd – Nairobi, Kenya
-
 August 2021 – August 2024
 ```
 ```
@@ -127,8 +107,7 @@ explainability of analytical outputs.
 ```
 System Support Agent at PZ Cussons
 PZ Cussons EA ltd under Platinum Outsourcing & Logistics EA ltd – Nairobi, Kenya
-November 2019 – July
-2021
+November 2019 – July 2021
 ```
 ```
 ▪ Led system rollout of Distributor Management System (DMS) to
@@ -181,6 +160,25 @@ Customer Sales Data Integration:
 Consolidated secondary till sales from various customers into a single integrated
 report for unified analysis. This supported governance and accuracy on
 reporting by having one source of truth.
+```
+```
+Education
+```
+```
+Jan 2020 – Nov 2020
+Diploma in Information Security
+and Ethical Hacking
+Institute of Software
+Technology
+Nairobi, Kenya
+```
+```
+May 2013 – April 2021
+Bachelors of Science in Information
+Technology
+Jomo Kenyatta University of
+Agriculture and Technology
+Nairo bi, Kenya
 ```
 
 ```
