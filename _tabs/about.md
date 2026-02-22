@@ -17,19 +17,18 @@ Hi, I'm **John Murage**, an IT strategistic with focus on Data and an AI Enthusi
 C o n t a c ts
 ```
 ```
+
 ( 254 ) 718 - 740036
-```
-```
+
 Johnnjoroge21@gmail.com
-```
-```
+
 Nairobi, Kenya
-```
-```
+
 linkedin.com/in/johnnmurage
-```
+
 ## johnmurage.github.io
 
+```
 ```
 Education
 ```
@@ -38,8 +37,8 @@ Jan 2020 – Nov 2020
 Diploma in Information Security
 and Ethical Hacking
 Institute of Software
-Technolo gy
-Nairo bi, Kenya
+Technology
+Nairobi, Kenya
 ```
 ```
 May 2013 – April 2021
@@ -87,11 +86,9 @@ P r o f e s s i o n a l E x p e r i e n c e
 ```
 ```
 Country Business Analyst - Kenya
-```
-```
+
 PZ Cussons EA ltd – Nairobi, Kenya
-```
-```
+
 September 2024 –
 Present
 ```
@@ -105,8 +102,6 @@ scalable analytics and reporting platforms.
 ▪ Ensured IT service uptime through effective SLA management, incident resolution,
 escalation handling, and root cause analysis using ServiceNow to manage tickets,
 requests, and asset lifecycles in alignment with ITIL service delivery standards.
-```
-```
 ▪ Led end-to-end project lifecycle management, partnering with Local IT, regional
 and global IT teams, vendors, infrastructure, network/security, and ERP teams to
 deliver system implementations, upgrades, migrations, and company-wide rollouts.
@@ -120,46 +115,21 @@ controls, policies, SOP documentation, and access management governance.
 ```
 IT support and Data analyst at PZ Cussons
 PZ Cussons EA ltd – Nairobi, Kenya
-```
-```
-August 2021 – August
-```
-```
-2024
+
+August 2021 – August 2024
 ```
 ```
 ▪ Performed a dual role delivering business analytics alongside targeted IT
 support, with emphasis on report automation and process improvement
-```
-```
 ▪ Supported data quality and consistency initiatives to improve trust and
 explainability of analytical outputs.
 ```
 ```
 System Support Agent at PZ Cussons
-PZ Cussons EA ltd under Platinum Outsourcing &
-```
-```
-Logistics EA ltd – Nairobi, Kenya
-```
-```
+PZ Cussons EA ltd under Platinum Outsourcing & Logistics EA ltd – Nairobi, Kenya
 November 2019 – July
 2021
 ```
-
-```
-A w a r d s
-```
-Awarded by Business by rolling
-out dashboard which enabled
-the business have a wholistic
-view of sales data.
-Awarded for rolling TIMS
-solution making the Business
-compliant with KRA regulations
-and introduction of reporting
-and invoices sending modules.
-
 ```
 ▪ Led system rollout of Distributor Management System (DMS) to
 distributors, including collection, editing, and uploading of master data.
@@ -167,8 +137,6 @@ distributors, including collection, editing, and uploading of master data.
 escalation for distributor issues. Provided support services,
 troubleshooting, and temporary workarounds while resolving system-
 related problems
-```
-```
 ▪ Data Analysis & Reporting, conducted data cleanup and created reports
 using tools like PivotTables and VLOOKUP for effective analysis.
 ```
@@ -215,4 +183,18 @@ report for unified analysis. This supported governance and accuracy on
 reporting by having one source of truth.
 ```
 
-
+```
+A w a r d s
+```
+```
+Awarded by Business by rolling
+out dashboard which enabled
+the business have a wholistic
+view of sales data.
+Awarded for rolling TIMS
+solution making the Business
+compliant with KRA regulations
+and introduction of reporting
+and invoices sending modules.
+```
+```
