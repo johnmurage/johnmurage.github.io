@@ -27,15 +27,18 @@ Nairobi, Kenya
 linkedin.com/in/johnnmurage
 ```
 ```
-## johnmurage.github.io
+**P r o f i l e**
 ```
 ```
+Country Business Analyst with experience in data transformation, requirements
+management, and analytics enablement. Proven ability to collaborate with business
+stakeholders and technical teams to define business terms, standardize reporting,
+and support data governance initiatives that improve data quality, consistency, and
+decision-making.
 ```
+```
+**K e y S k i l l s**
 
-```
-K e y S k i l l s
-```
-```
 Operations IT
 SAP
 ITSM (ServiceNow, ITIL)
@@ -56,17 +59,7 @@ Gap Analysis
 Automation
 ```
 ```
-P r o f i l e
-```
-```
-Country Business Analyst with experience in data transformation, requirements
-management, and analytics enablement. Proven ability to collaborate with business
-stakeholders and technical teams to define business terms, standardize reporting,
-and support data governance initiatives that improve data quality, consistency, and
-decision-making.
-```
-```
-P r o f e s s i o n a l E x p e r i e n c e
+** P r o f e s s i o n a l  E x p e r i e n c e** 
 ```
 ```
 Country Business Analyst - Kenya
@@ -122,7 +115,7 @@ related problems
 using tools like PivotTables and VLOOKUP for effective analysis.
 ```
 ```
-P r o j e c t s
+**P r o j e c t s**
 ```
 ```
 Window 11 Migration:
@@ -164,7 +157,7 @@ report for unified analysis. This supported governance and accuracy on
 reporting by having one source of truth.
 ```
 ```
-Education
+**Education**
 ```
 ```
 Jan 2020 – Nov 2020
@@ -184,7 +177,7 @@ Nairo bi, Kenya
 ```
 
 ```
-A w a r d s
+**A w a r d s**
 ```
 ```
 Awarded by Business by rolling
