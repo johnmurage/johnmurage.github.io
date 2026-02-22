@@ -26,9 +26,9 @@ Nairobi, Kenya
 
 linkedin.com/in/johnnmurage
 ```
-```
+
 **P r o f i l e**
-```
+
 ```
 Country Business Analyst with experience in data transformation, requirements
 management, and analytics enablement. Proven ability to collaborate with business
