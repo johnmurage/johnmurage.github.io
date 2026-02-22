@@ -25,9 +25,11 @@ Johnnjoroge21@gmail.com
 Nairobi, Kenya
 
 linkedin.com/in/johnnmurage
-
+```
+```
 ## johnmurage.github.io
-
+```
+```
 ```
 
 ```
